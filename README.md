@@ -8,9 +8,6 @@
 
 <div align="center">
   
-![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-Computer%20Science-ff6b35.svg?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.38%2F10-brightgreen.svg?style=for-the-badge)
-![Registration](https://img.shields.io/badge/Registration-22BCE11612-blue.svg?style=for-the-badge)
 
 📧 **rajvardhan2022@vitbhopal.ac.in** • 📱 **+91-87897-49366**
 
