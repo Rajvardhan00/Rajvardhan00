@@ -128,6 +128,7 @@
 
 ## 🌟 Fun Facts About Me
 
+```python
 class RajVardhan:
     def __init__(self):
         self.university = "VIT Bhopal University"
@@ -146,7 +147,7 @@ class RajVardhan:
         
     def fun_fact(self):
         return "I can debug code and cook a perfect meal simultaneously! 🍳💻"
-
+```
 
 
 ## 🎨 Skills Visualization
