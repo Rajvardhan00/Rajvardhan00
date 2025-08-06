@@ -23,7 +23,7 @@
 🎓 **Computer Science Engineering Student** at VIT Bhopal University (2022-2026)  
 💡 **Passionate** about Machine Learning, Full-Stack Development, and Cloud Technologies  
 🚀 **Certified** AWS Solutions Architect with hands-on experience in modern tech stack  
-🏆 **Qualified** for PwC CTDP 3.0 - demonstrating advanced technical competency  
+🏆 **Qualified** for PwC CTDP 3.0 Module-1 - demonstrating advanced technical competency  
 ♟️ **Chess enthusiast** who loves international affairs and cooking  
 
 ---
@@ -72,17 +72,9 @@
 
 </div>
 
-### 🧠 Machine Learning Model for Parkinson's Disease Detection
-- **Achieved 99.7% accuracy** using KNN algorithm with precision=1.0, recall=0.996
-- **Team Lead** for early detection system crucial for effective treatment
-- **Tech Stack**: Python, Scikit-learn, Machine Learning algorithms
 
-### 💪 Comprehensive Fitness Website Platform  
-- **Full-stack application** with responsive design and user-friendly interface
-- **Features**: Fitness goal tracking, workout plans, community connection
-- **Tech Stack**: HTML, CSS, JavaScript, MySQL, Spring Boot, Postman, Figma
 
----
+
 
 ## 🏆 Achievements & Certifications
 
@@ -205,9 +197,9 @@ timeline
          : Achieved 99.7% accuracy
     2024 : Full-Stack Development
          : AWS Solutions Architect certification
-         : CTDP 3.0 qualification
          : Advanced RAG systems
     2025 : Cloud-native applications
+         : CTDP 3.0 Module-1 qualification
          : Open-source contributions
          : Industry-ready projects
 ```
