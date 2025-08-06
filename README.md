@@ -94,7 +94,6 @@
 - 🥇 **CTDP 3.0 Qualified** - PwC Cloud Technology Development Programme
 - 🧩 **150+ Coding Problems** solved across multiple platforms
 - 🌟 **NPTEL Elite + Silver** - Cloud Computing excellence
-- 📊 **8.38 CGPA** - Consistent academic performance
 
 </td>
 <td width="50%">
@@ -137,7 +136,6 @@
 
 ## 🌟 Fun Facts About Me
 
-```python
 class RajVardhan:
     def __init__(self):
         self.university = "VIT Bhopal University"
@@ -156,9 +154,9 @@ class RajVardhan:
         
     def fun_fact(self):
         return "I can debug code and cook a perfect meal simultaneously! 🍳💻"
-```
 
----
+
+
 
 ## 🎨 Skills Visualization
 
