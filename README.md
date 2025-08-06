@@ -126,29 +126,6 @@
 
 ---
 
-## 🌟 Fun Facts About Me
-
-```python
-class RajVardhan:
-    def __init__(self):
-        self.university = "VIT Bhopal University"
-        self.major = "Computer Science Engineering"
-        self.cgpa = 8.38
-        self.languages = ["English", "Hindi"]
-        self.hobbies = ["Chess ♟️", "International Affairs 🌍", "Cooking 👨‍🍳"]
-        
-    def current_focus(self):
-        return [
-            "Building intelligent AI systems",
-            "Mastering cloud technologies", 
-            "Solving complex algorithms",
-            "Creating impactful projects"
-        ]
-        
-    def fun_fact(self):
-        return "I can debug code and cook a perfect meal simultaneously! 🍳💻"
-```
-
 
 ## 🎨 Skills Visualization
 
