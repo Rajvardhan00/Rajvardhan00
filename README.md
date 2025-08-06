@@ -149,7 +149,6 @@ class RajVardhan:
 
 
 
-
 ## 🎨 Skills Visualization
 
 <div align="center">
