@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Vardhan!
+# 👋 Hi, I'm Raj Vardhan!.
 
 <div align="center">
   
@@ -20,8 +20,8 @@
 
 ## 🎯 About Me
 
-🎓 **Computer Science Engineering Student** at VIT Bhopal University (2022-2026)  
-💡 **Passionate** about Machine Learning, Full-Stack Development, and Cloud Technologies  
+🎓 **Computer Science Engineering Student** at VIT Bhopal University (2022-2026).
+💡 **Passionate** about Machine Learning, Full-Stack Development, and Cloud Technologies.  
 🚀 **Certified** AWS Solutions Architect with hands-on experience in modern tech stack  
 🏆 **Qualified** for PwC CTDP 3.0 Module-1 - demonstrating advanced technical competency  
 ♟️ **Chess enthusiast** who loves international affairs and cooking  
