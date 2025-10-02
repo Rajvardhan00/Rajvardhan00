@@ -147,12 +147,11 @@ timeline
     2023 : Machine Learning exploration
          : Built Parkinson's Disease Detection model
          : Achieved 99.7% accuracy
-    2024 : Full-Stack Development
+    2024 
          : AWS Solutions Architect certification
          : Advanced RAG systems
     2025 : Cloud-native applications
          : CTDP 3.0 Module-1 qualification
-         : Open-source contributions
          : Industry-ready projects
 ```
 
