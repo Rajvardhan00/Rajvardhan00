@@ -70,6 +70,7 @@
 - 🔧 **NPTEL Cloud Computing** - Elite + Silver
 - 🌍 **Computer Networking** - Coursera
 - 🐍 **Programming with Python 3.X** - Simplilearn
+-  Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
 </td>
 </tr>
