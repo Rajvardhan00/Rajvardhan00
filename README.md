@@ -20,7 +20,7 @@
 
 ## 🎯 About Me
 
-🎓 **Computer Science Engineering Student** at VIT Bhopal University (2022-2026).
+🎓 **Computer Science Engineering Student** at VIT (2022-2026).
 💡 **Passionate** about Machine Learning and Cloud Technologies.  
 🏆 **Qualified** for PwC CTDP 3.0 Module-1 - demonstrating advanced technical competency  
 ♟️ **Chess enthusiast** who loves international affairs and cooking  
