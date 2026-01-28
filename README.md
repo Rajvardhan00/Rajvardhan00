@@ -103,7 +103,7 @@
 ---
 
 
-## 🎨 Skills Visualization
+##  Skills Visualization
 
 <div align="center">
 
@@ -136,7 +136,7 @@ mindmap
 
 ---
 
-## 📈 Learning Journey
+##  Learning Journey
 
 <div align="center">
 
