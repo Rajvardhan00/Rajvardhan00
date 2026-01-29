@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajvardhan77/)
 
 🎓 **Computer Science Engineering Student** at VIT (2022-2026).
