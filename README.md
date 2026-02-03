@@ -61,7 +61,7 @@
 <td width="50%">
 
 ###  Major Achievements
-- 🥇 **CTDP 3.0 Qualified** - PwC Cloud Technology Development Programme
+- 🥇 **CTDP 3.0 Qualified Round 1** - PwC Cloud Technology Development Programme
 - 🌟 **NPTEL Elite + Silver** - Cloud Computing excellence
 
 </td>
