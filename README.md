@@ -9,7 +9,7 @@
 <div align="center">
   
 
-📧 **af.aj601@gmail.com** •  **+91-87897-49366**
+📧 **af.aj601@gmail.com** •  **+91-8789749366**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajvardhan00)
@@ -41,7 +41,6 @@
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Specializations
