@@ -21,7 +21,7 @@
 ##  About Me
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajvardhan77/)
 
-🎓 **Computer Science Engineering Student** at VIT (2022-2026).
+ **Computer Science Engineering Student** at VIT,Bhopal (2022-2026).
 💡 **Passionate** about Machine Learning and Cloud Technologies.  
 🏆 **Qualified** for PwC CTDP 3.0 Module-1 - demonstrating advanced technical competency  
 ♟️ **Chess enthusiast** who loves international affairs and cooking  
