@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Vardhan!.
+# 👋 Hi, I'm Raj Vardhan!
 
 <div align="center">
   
