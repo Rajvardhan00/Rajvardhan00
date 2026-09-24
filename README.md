@@ -25,7 +25,7 @@
 💡 **Passionate** about Machine Learning and Cloud Technologies.  
 🏆 **Qualified** for PwC CTDP 3.0 Module-1 - demonstrating advanced technical competency  
 ♟️ **Chess enthusiast** who loves international affairs and cooking  
-
+    **Cleared TCS National Qualifier Test (NQT)
 ---
 
 ## 🛠️ Technical Arsenal
